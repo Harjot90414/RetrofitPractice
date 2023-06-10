@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="getUsers">उपयोगकर्ता प्राप्त करें</string>
+    <string name="createUser">उपयोगकर्ता बनाइये</string>
+    <string name="addCustomer">ग्राहक जोड़ें</string>
+</resources>
